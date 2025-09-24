@@ -1,5 +1,5 @@
 # BackupSentinel
-==============
+
 
 BackupSentinel is a lightweight Windows tray utility that helps you check whether files or folders 
 on your local drives also exist on a backup disk or network share.  
